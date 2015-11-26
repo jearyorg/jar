@@ -1,1 +1,3 @@
-http://127.0.0.1/invoker/JMXInvokerServlet
+127.0.0.1
+192.168.1.1
+www.wooyun.org
